@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net6</TargetFramework>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Company>Syntellect.Typography.OpenFont</Company>
+    <Product>Syntellect.Typography.OpenFont</Product>
+    <AssemblyName>Syntellect.Typography.OpenFont</AssemblyName>
+    <RootNamespace>Syntellect.Typography.OpenFont</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

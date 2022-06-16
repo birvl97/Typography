@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net6</TargetFramework>
+    <Company>Syntellect.Typography.GlyphLayout</Company>
+    <Product>Syntellect.Typography.GlyphLayout</Product>
+    <AssemblyName>Syntellect.Typography.GlyphLayout</AssemblyName>
+    <RootNamespace>Syntellect.Typography.GlyphLayout</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
